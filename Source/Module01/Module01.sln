@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFIrsApp", "MyFIrsApp\MyFIrsApp.csproj", "{B4B8F035-6DE5-4918-A0CB-67BD17F49FEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4B8F035-6DE5-4918-A0CB-67BD17F49FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B8F035-6DE5-4918-A0CB-67BD17F49FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B8F035-6DE5-4918-A0CB-67BD17F49FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B8F035-6DE5-4918-A0CB-67BD17F49FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F772207A-AB31-4405-8C70-B90B6E21884B}
+	EndGlobalSection
+EndGlobal
