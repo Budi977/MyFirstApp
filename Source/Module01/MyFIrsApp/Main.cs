@@ -6,5 +6,10 @@ namespace MyFIrsApp
         {
             InitializeComponent();
         }
+
+        private void Btn1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hallo von meinem ersten Commit!");
+        }
     }
 }
